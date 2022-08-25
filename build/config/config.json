@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 100,
   "WEI_COST": 20000000000000000000,
   "DISPLAY_COST": 20,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 310000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/straight-codev2",
   "SHOW_BACKGROUND": true
